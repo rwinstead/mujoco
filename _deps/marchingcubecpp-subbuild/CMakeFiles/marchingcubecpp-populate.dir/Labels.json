@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/ryanwinstead/Projects/mujoco-3.1.1/_deps/marchingcubecpp-subbuild/CMakeFiles/marchingcubecpp-populate"
+		},
+		{
+			"file" : "/Users/ryanwinstead/Projects/mujoco-3.1.1/_deps/marchingcubecpp-subbuild/CMakeFiles/marchingcubecpp-populate.rule"
+		},
+		{
+			"file" : "/Users/ryanwinstead/Projects/mujoco-3.1.1/_deps/marchingcubecpp-subbuild/CMakeFiles/marchingcubecpp-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/ryanwinstead/Projects/mujoco-3.1.1/_deps/marchingcubecpp-subbuild/marchingcubecpp-populate-prefix/src/marchingcubecpp-populate-stamp/marchingcubecpp-populate-build.rule"
+		},
+		{
+			"file" : "/Users/ryanwinstead/Projects/mujoco-3.1.1/_deps/marchingcubecpp-subbuild/marchingcubecpp-populate-prefix/src/marchingcubecpp-populate-stamp/marchingcubecpp-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/ryanwinstead/Projects/mujoco-3.1.1/_deps/marchingcubecpp-subbuild/marchingcubecpp-populate-prefix/src/marchingcubecpp-populate-stamp/marchingcubecpp-populate-download.rule"
+		},
+		{
+			"file" : "/Users/ryanwinstead/Projects/mujoco-3.1.1/_deps/marchingcubecpp-subbuild/marchingcubecpp-populate-prefix/src/marchingcubecpp-populate-stamp/marchingcubecpp-populate-install.rule"
+		},
+		{
+			"file" : "/Users/ryanwinstead/Projects/mujoco-3.1.1/_deps/marchingcubecpp-subbuild/marchingcubecpp-populate-prefix/src/marchingcubecpp-populate-stamp/marchingcubecpp-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/ryanwinstead/Projects/mujoco-3.1.1/_deps/marchingcubecpp-subbuild/marchingcubecpp-populate-prefix/src/marchingcubecpp-populate-stamp/marchingcubecpp-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/ryanwinstead/Projects/mujoco-3.1.1/_deps/marchingcubecpp-subbuild/marchingcubecpp-populate-prefix/src/marchingcubecpp-populate-stamp/marchingcubecpp-populate-test.rule"
+		},
+		{
+			"file" : "/Users/ryanwinstead/Projects/mujoco-3.1.1/_deps/marchingcubecpp-subbuild/marchingcubecpp-populate-prefix/src/marchingcubecpp-populate-stamp/marchingcubecpp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"marchingcubecpp-populate"
+		],
+		"name" : "marchingcubecpp-populate"
+	}
+}
